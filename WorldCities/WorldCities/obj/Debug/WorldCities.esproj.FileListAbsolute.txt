@@ -1,4 +1,0 @@
-C:\Users\ASUS\source\repos\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.SuggestedBindingRedirects.cache
-C:\Users\ASUS\source\repos\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
-C:\Users\ASUS\source\repos\Chapter_7\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.SuggestedBindingRedirects.cache
-C:\Users\ASUS\source\repos\Chapter_7\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
